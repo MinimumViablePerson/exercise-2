@@ -1,0 +1,20 @@
+h1 {
+  color: royalblue;
+}
+
+h2 {
+  color: crimson;
+}
+
+.cover {
+  background-color: rgb(65, 57, 48);
+}
+
+.page {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  height: 600px;
+  width: 400px;
+}
